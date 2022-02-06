@@ -14,7 +14,7 @@ After reviewing the populations, we have determined the following regarding the 
 
 4. While we have reviewed a large swath of the retiring population, it may not be needed to create a mentor program for all levels and with all employees of the silver tsunami. To make the transition easier, Pewlett Hackard should focus on transitioning knowledge for more senior positions and employees with more tenure. This will point Pewlett Hackard toward the employees that are more important when it comes to intellectual knowledge. 
 
-Employee Distribution
+**Employee Distribution**
 
 ![employee_distribution](https://github.com/kjminges/Pewlett-Hackard-Analysis/blob/main/employee_distribution.png)
 
